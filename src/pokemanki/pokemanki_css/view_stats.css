@@ -48,6 +48,8 @@
 .pk-st-card-name {
     display: flex;
     flex-direction: column;
+	word-wrap: break-word;
+	overflow: hidden;
 }
 .pk-st-card-lvl {
     display: flex;
